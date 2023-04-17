@@ -1,6 +1,5 @@
 package com.amitraj.onetomanyjavatechie.service;
 
-import com.amitraj.onetomanyjavatechie.dto.OrderRequest;
 import com.amitraj.onetomanyjavatechie.dto.OrderResponse;
 import com.amitraj.onetomanyjavatechie.entity.Customer;
 import com.amitraj.onetomanyjavatechie.repository.CustomerRepository;
